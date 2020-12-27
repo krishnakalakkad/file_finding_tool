@@ -44,8 +44,4 @@ void myfct(int y){
 Through this project, I established my foundations in concurrent programming, including how to pipe between a child and parent, how to use signals to override stdin, and how redirect the 'read' end of a pipe to stdout using dup and dup2. I have applied this knowledge to other parallelization projects, like matrix multiplication parallelization, which can be seen [here](https://github.com/krishnakalakkad/parallel_matrix_multiplication).
 
 
-## How to use this program
-**OPTIONAL** 
-Include how to download and install dependancies. Here would also be a good place to define anything that is currently WIP. 
-
 
