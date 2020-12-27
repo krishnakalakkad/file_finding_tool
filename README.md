@@ -10,8 +10,8 @@ This project was my final project for my systems programming class. It applies a
 
 ## Challenges
 
-### Understanding all new concepts introduced in the class
-There were a lot of moving parts in this project, and it was overwhelming to manage. To complete this project, I had to have a solid grip on how to establish a pipeline between the child and the parent processes. I also had to figure out how to use `<dirent.h>` and `<sys/stat.h>` so that I could parse specific files.
+### Understanding New Concepts
+To complete this project, I had to have a solid grip on how to establish a pipeline between the child and the parent processes. I also had to figure out how to use `<dirent.h>` and `<sys/stat.h>` so that I could parse specific files.
 
 **My Approach**
 
