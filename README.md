@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This program finds the path of a file in any current working directory as well as its subdirectories. The find program utilizes concurrent programming design and implementation so that the user can try to find different files at the same time. 
+This program finds the path of a file in any current working directory as well as its subdirectories by utilizing a concurrent programming design and implementation so that the user can run many simultaneous finding processes. 
 
 ## Motivations and Goals
 
