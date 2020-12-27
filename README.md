@@ -15,7 +15,7 @@ To complete this project, I had to have a solid grip on how to establish a pipel
 
 **My Approach**
 
-I extensively researched all capabilities of `pipe()`, `signal()`, `kill()`, `<dirent.h>`, and `<stat/sys.h>`, and I parsed out what functionalities I thought I needed for the program. I then wrote procedures on how to use all these functionalities on sticky notes for my own reference. I find it lot easier to design solutions if I reference my own understanding of a function instead of someone else's.
+I extensively researched all capabilities of `pipe()`, `signal()`, `kill()`, `<dirent.h>`, and `<stat/sys.h>`, and I parsed out what functionalities I thought I needed for the program. I then wrote procedures on how to use all these functionalities on sticky notes for my own reference.
 
 This snippet of code from find.c demonstrates how I used a pipe in the program. (This is code in my child process, both the parent and the child have a copy of the pipe)
 
